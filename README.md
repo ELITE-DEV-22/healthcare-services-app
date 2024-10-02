@@ -20,3 +20,5 @@ npm install
 npm start
 
 5.Open your browser and go to http://localhost:3000.
+
+Deployed at: https://elite-dev-22.github.io/healthcare-services-app/
